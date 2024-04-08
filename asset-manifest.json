@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f3512a4.css",
-    "main.js": "/static/js/main.decdffd5.js",
-    "static/media/Axiforma-Regular.ttf": "/static/media/Axiforma-Regular.c4f8a961a15e460f3a71.ttf",
-    "static/media/Axiforma-Bold.ttf": "/static/media/Axiforma-Bold.179a245385b803119e63.ttf",
-    "static/media/Axiforma-Light.ttf": "/static/media/Axiforma-Light.fe89ffb1a89f5ea2b030.ttf",
-    "static/media/Axiforma-Bold.woff": "/static/media/Axiforma-Bold.a5763688e85a57f1a5f6.woff",
-    "static/media/Axiforma-Regular.woff": "/static/media/Axiforma-Regular.2b258adf3be92e4cc1ad.woff",
-    "static/media/Axiforma-Light.woff": "/static/media/Axiforma-Light.bbb27e30906f29b01295.woff",
-    "static/media/Axiforma-Bold.woff2": "/static/media/Axiforma-Bold.a3329a3314dd825fab49.woff2",
-    "static/media/Axiforma-Regular.woff2": "/static/media/Axiforma-Regular.7f1cf476b4119c8b770e.woff2",
-    "static/media/Axiforma-Light.woff2": "/static/media/Axiforma-Light.2eda7463cbabc440bf97.woff2",
-    "static/media/mews-logo.svg": "/static/media/mews-logo.279115dfb643d90ce14a18af5f937626.svg",
-    "index.html": "/index.html",
-    "main.1f3512a4.css.map": "/static/css/main.1f3512a4.css.map",
-    "main.decdffd5.js.map": "/static/js/main.decdffd5.js.map"
+    "main.css": "/mews/static/css/main.30a305e9.css",
+    "main.js": "/mews/static/js/main.28507f28.js",
+    "static/media/Axiforma-Regular.ttf": "/mews/static/media/Axiforma-Regular.c4f8a961a15e460f3a71.ttf",
+    "static/media/Axiforma-Bold.ttf": "/mews/static/media/Axiforma-Bold.179a245385b803119e63.ttf",
+    "static/media/Axiforma-Light.ttf": "/mews/static/media/Axiforma-Light.fe89ffb1a89f5ea2b030.ttf",
+    "static/media/Axiforma-Bold.woff": "/mews/static/media/Axiforma-Bold.a5763688e85a57f1a5f6.woff",
+    "static/media/Axiforma-Regular.woff": "/mews/static/media/Axiforma-Regular.2b258adf3be92e4cc1ad.woff",
+    "static/media/Axiforma-Light.woff": "/mews/static/media/Axiforma-Light.bbb27e30906f29b01295.woff",
+    "static/media/Axiforma-Bold.woff2": "/mews/static/media/Axiforma-Bold.a3329a3314dd825fab49.woff2",
+    "static/media/Axiforma-Regular.woff2": "/mews/static/media/Axiforma-Regular.7f1cf476b4119c8b770e.woff2",
+    "static/media/Axiforma-Light.woff2": "/mews/static/media/Axiforma-Light.2eda7463cbabc440bf97.woff2",
+    "static/media/mews-logo.svg": "/mews/static/media/mews-logo.279115dfb643d90ce14a18af5f937626.svg",
+    "index.html": "/mews/index.html",
+    "main.30a305e9.css.map": "/mews/static/css/main.30a305e9.css.map",
+    "main.28507f28.js.map": "/mews/static/js/main.28507f28.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f3512a4.css",
-    "static/js/main.decdffd5.js"
+    "static/css/main.30a305e9.css",
+    "static/js/main.28507f28.js"
   ]
 }
