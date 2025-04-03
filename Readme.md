@@ -1,15 +1,15 @@
 <div align="center">
-  <h1> MEWSvies - Search Movie App </h1>
+  <h1> Meeowsvies - Search Movie App </h1>
   <br><br>
-  <img src=".github/MEWSvies.png">
+  <img src=".github/meeowsvies.png">
   <br>
   <br>
   <p> Final result </p>
-  <p><strong> https://mews.vercel.app/ </strong></p>
+  <p><strong> https://meeows.vercel.app/ </strong></p>
   <br>
 </div>
 
-# Mews frontend developer task
+# Meeows App
 
 Movie search application. The application will have two views - search and movie detail. The search view is the default view and should contain search input and display a paginated list of found movies with a way to load additional batches. The search should start automatically after typing into the input when finished - there is no need for a search button. Clicking on a movie gets you to the movie detail view, where detailed information about the movie should be listed.
 
@@ -27,7 +27,6 @@ By default, you will see the Top Popular Movies from the API.
 -   [x] UnitTesting
 -   [x] Placeholder Images
 -   [x] Loader spinner
--   [x] Design system from [https://www.mews.design/latest/welcome-eumfLxWD] (MEWS)
 
 ## Available Scripts
 

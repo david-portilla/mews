@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import mewsLogo from "../assets/mews-logo.svg";
 
 const HeaderContainer = styled.header`
     background-color: var(--deep-blue);
@@ -8,11 +7,6 @@ const HeaderContainer = styled.header`
     align-items: center;
     flex-direction: column;
     justify-content: center;
-`;
-
-const Logo = styled.img`
-    width: 120px;
-    height: 15px;
 `;
 
 const LogoLink = styled.a`
@@ -34,11 +28,7 @@ export const Header = () => {
     return (
         <HeaderContainer className="bg-gray-800 text-white py-4 w-full">
             <LogoLink href="/">
-                <Logo
-                    className="image h-full w-full object-contain"
-                    src={mewsLogo}
-                    alt="Mews Logo"
-                />
+                <p>MEEOWs</p>
                 <em>vies</em>
             </LogoLink>
             <LogoText className="text-xs xs:text-base mt-1">
